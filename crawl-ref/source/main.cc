@@ -1986,7 +1986,7 @@ void process_command(command_type cmd, command_type prev_cmd)
     case CMD_WEAR_JEWELLERY:       puton_ring(-1);           break;
     case CMD_WIELD_WEAPON:         wield_weapon(false);      break;
     case CMD_ZAP_WAND:             zap_wand();               break;
-
+    case CMD_TEST_PRINT:           mpr("This will lead to the Options Menu.");             break;
     case CMD_DROP:
         drop();
         break;

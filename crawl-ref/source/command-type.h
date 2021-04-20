@@ -112,6 +112,7 @@ enum command_type
     CMD_SUSPEND_GAME,
     CMD_QUIT,
     CMD_WIZARD,
+    CMD_TEST_PRINT,
     CMD_EXPLORE_MODE,
 
     CMD_SEARCH_STASHES,

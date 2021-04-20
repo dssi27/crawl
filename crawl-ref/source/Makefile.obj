@@ -176,6 +176,7 @@ ng-restr.o \
 ng-setup.o \
 ng-wanderer.o \
 notes.o \
+optionMenu.o \
 orb.o \
 ouch.o \
 outer-menu.o \
